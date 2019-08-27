@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1566833911 source:d:\mestrado\estrutura de dados\aulaed\main.cpp
+	<iostream>
+	"include/ListaSimples.h"
+
+1566562078 d:\mestrado\estrutura de dados\aulaed\include\listasimples.h
+	<iostream>
+
