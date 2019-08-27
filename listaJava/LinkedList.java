@@ -9,12 +9,14 @@ public class LinkedList {
   
         int data; 
         Node next; 
+        //Node prev;
   
         // Constructor 
         Node(int d) 
         { 
             data = d; 
             next = null; 
+            //prev = null;
         } 
     } 
   
