@@ -5,6 +5,13 @@ public class QuickSort{
 
 
 	public static int partition(int v[], int l, int r, int pivot){
+		do{
+			while(v[++l] < pivot){
+				while((l < r) && pivot < v[--r]){
+					swap
+				}
+			}
+		} while (l < r)
 		return 0;
 	}
 
