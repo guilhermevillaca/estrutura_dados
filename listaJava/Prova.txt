@@ -1,0 +1,9 @@
+Prova 14/10
+Estrutura de dados
+Ordenação
+Arvores
+
+ex: diferença insert sort e select sort
+
+
+15/10 - apresentação trabalho
